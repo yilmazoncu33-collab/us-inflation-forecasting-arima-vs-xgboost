@@ -1,0 +1,7 @@
+pandas
+pandas-datareader
+statsmodels
+pmdarima
+scikit-learn
+xgboost
+matplotlib
